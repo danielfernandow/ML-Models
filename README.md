@@ -9,7 +9,7 @@ O objetivo é desenvolver análises com bases de dados extraido do _Kaggle_ e da
 > 2. Regressão.
 > 3. Assossiação.
 > 4. Clusterização.
-> 5. Aprendizagem por reforço.
+> 5. Séries Temporais.
 
 O conteúdo estará sendo adicionado ao decorrer do tempo.
 
@@ -22,6 +22,6 @@ The objective is to develop analyzes with databases extracted from Kaggle and UC
 > 2. Regression.
 > 3. Membership.
 > 4. Clustering.
-> 5. Reinforcement learning.
+> 5. Time Series.
 
 The content will be added over time.
